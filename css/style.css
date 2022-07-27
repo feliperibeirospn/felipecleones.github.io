@@ -113,7 +113,7 @@ main {
 html,body{height: 100%;
 }
 body{
-    background:linear-gradient(to bottom, #6ab7f5, #fff);
+    background:linear-gradient(to bottom, #6ab7f5, #fff) no-repeat center center;
     font-family: "raleway", cursive;
     color: white;
     
