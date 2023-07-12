@@ -112,7 +112,8 @@ main {
 ----------------------------------------------------LINKTREE------------------
 html,body{height: 100%;
 }
-body{
+body{ max-width: 700px;
+      margin: 10px auto;
     background:linear-gradient(to bottom, #6ab7f5, #fff) no-repeat center center;
     font-family: "raleway", cursive;
     color: white;
