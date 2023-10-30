@@ -2,7 +2,7 @@ const itens = [
   {
     id: 0,
     nome: "COMPUTADOR GAMER",
-    img: "/assents/img/1pcgamer.jpeg",
+    img: "./assents/img/1pcgamer.jpeg",
     valor: 3999.99,
     quantidade: 0,
   },
